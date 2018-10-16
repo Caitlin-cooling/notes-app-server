@@ -1,4 +1,4 @@
-#Notes App
+# Notes App
 This is an updated version of my notes app that takes user inout from the command line and uses a server.
 
 ## How to Use
