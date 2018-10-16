@@ -4,7 +4,7 @@ This is an updated version of my notes app that takes user inout from the comman
 ## How to Use
 Start your server by running the ruby file `test_server_ex.rb` from the command line. Note that this will continue to be accessible until it is closed.
 
-User the command `telnet localhost 2345` to access the program.
+Use the command `telnet localhost 2345` to access the program.
 
 You will be asked if you want to create new, view notes or quit.
 
